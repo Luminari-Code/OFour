@@ -1,4 +1,4 @@
-# **App Name**: Ò Four Online
+# **App Name**: Ò Four
 
 ## Core Features:
 
