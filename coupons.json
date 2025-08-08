@@ -1,0 +1,18 @@
+{
+  "OFourNew": {
+    "description": "Discount for 10% on your first order",
+    "type": "percentage",
+    "value": 10,
+    "condition": {
+      "firstOrder": "only on first order. Cross Validate with Phone Number"
+    }
+  },
+  "FreeBrownie": {
+    "description": "Free brownie on orders above ₹2000",
+    "type": "free_item",
+    "value": "Double Chocolate Brownie",
+    "condition": {
+      "minCartValue": 2000
+    }
+  }
+}
